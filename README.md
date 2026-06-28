@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+### RECIPE_PROJECT
+This is a simple project where we can create a cooking recipe by adding he incredients, cooking time, etc. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Then after the creation the users can see the recipes in the list.
+So the users can start playing the cooking recipiee and start cooking.
 
-## Available Scripts
+This project is created using react.
+For current phase we are just using localestoreg for saving the data.
 
-In the project directory, you can run:
 
 ### `npm start`
 
